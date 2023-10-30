@@ -1,10 +1,6 @@
 # react-app-photographer_portfolio
 
+react-app-HooBank [LiveDemo](https://photographer-portfolio-tau.vercel.app/)
 
+![react-app-photographer-portfolio](https://github.com/awnish04/Photographer_Portfolio/assets/64547504/ac5c85b0-823a-45ac-9297-23ae61e68af3)
 
-react-app-HooBank [LiveDemo](https://photographer-portfolio-sigma.vercel.app/)
-
-![react-app-photographer-portfolio](https://github.com/awnish04/PhotographerPortfolio/assets/64547504/81ff9e2d-c060-449d-a2f8-3db352d9561b)
-
-
-# Photographer_Portfolio
